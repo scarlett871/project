@@ -1,4 +1,4 @@
 
  # Inventory Management System
-    #### Video Demo:  <URL HERE>
+    #### Video Demo:  https://youtu.be/T48mFbPVA3w
     #### Description: A simple program used for very basic inventory management
